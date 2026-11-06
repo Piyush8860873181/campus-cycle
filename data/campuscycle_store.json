@@ -1,0 +1,712 @@
+{
+  "users": [
+    {
+      "_id": "z89z37tkmw4pg35d",
+      "fullName": "piyush",
+      "email": "23cs@gmail.edu",
+      "password": "$2b$10$x02aiaQuNsh6y53r2nnbO.roPFiBVpP9laERJuKU73W2d96VVgaPW",
+      "collegeName": "Other College",
+      "course": "B.Tech",
+      "branch": "Computer Science & Engineering",
+      "academicYear": "2nd Year",
+      "contactNumber": "",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=piyush",
+      "bio": "Student on CampusCycle.",
+      "role": "user",
+      "isCollegeVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-11-06T08:20:50.545Z",
+      "updatedAt": "2026-11-06T08:20:50.545Z"
+    },
+    {
+      "_id": "lncc4cz6mw4oeges",
+      "fullName": "piyush ",
+      "email": "23cs@lin.edu",
+      "password": "$2b$10$wUMhXc8ThX/eb38nj7hTMeCbZuT6hb5rOPAY9gekZ3AdP50ftTvSO",
+      "collegeName": "Delhi University",
+      "course": "B.Tech",
+      "branch": "Computer Science & Engineering",
+      "academicYear": "2nd Year",
+      "contactNumber": "",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=piyush%20",
+      "bio": "Student on CampusCycle.",
+      "role": "user",
+      "isCollegeVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-11-06T07:51:34.804Z",
+      "updatedAt": "2026-11-06T07:51:34.804Z"
+    },
+    {
+      "_id": "user_admin_001",
+      "fullName": "Dr. Suresh Admin",
+      "email": "admin@campuscycle.edu",
+      "password": "$2b$10$QESQyMTm1po/UCiBaS3iWO/UekAfHDRHxqtMHYV1uZMwaG8ilAwR2",
+      "collegeName": "Delhi University",
+      "course": "Administration",
+      "branch": "Campus Sustainability Office",
+      "academicYear": "Staff",
+      "contactNumber": "+91 98110 12345",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Campus administrator ensuring fair deals, green initiatives, and student safety.",
+      "role": "admin",
+      "isCollegeVerified": true,
+      "isSuspended": false
+    },
+    {
+      "_id": "user_aarav_002",
+      "fullName": "Aarav Patel",
+      "email": "aarav@du.ac.in",
+      "password": "$2b$10$GrAzw8LbqltB00hWFrF/wurELQ8j9sAR38xh0sLDqnNxx/lqXiX5q",
+      "collegeName": "Delhi University",
+      "course": "B.Tech",
+      "branch": "Computer Science & Engineering",
+      "academicYear": "4th Year (Graduating)",
+      "contactNumber": "+91 98765 43210",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+      "bio": "Graduating senior clearing out my room and study desk! Everything well maintained.",
+      "role": "user",
+      "isCollegeVerified": true,
+      "isSuspended": false
+    },
+    {
+      "_id": "user_priya_003",
+      "fullName": "Priya Sharma",
+      "email": "priya@ipu.ac.in",
+      "password": "$2b$10$US2IqKQ5h1NJRpG1zjBv2uxeM61WNYi4VBWXA3s7P8P4AqZK0fJ.e",
+      "collegeName": "IP University",
+      "course": "B.Tech",
+      "branch": "Electronics & Communication",
+      "academicYear": "3rd Year",
+      "contactNumber": "+91 98234 56789",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "bio": "ECE junior sharing textbooks and notes. Always happy to negotiate for fellow students.",
+      "role": "user",
+      "isCollegeVerified": true,
+      "isSuspended": false
+    },
+    {
+      "_id": "user_rohan_004",
+      "fullName": "Rohan Verma",
+      "email": "rohan@iitd.ac.in",
+      "password": "$2b$10$u2s3jmIP2Svy1o28b7g4EuERy2NTp6qxcyEuEMBMJJRlg.bQuUFbG",
+      "collegeName": "IIT Delhi",
+      "course": "B.Tech",
+      "branch": "Mechanical Engineering",
+      "academicYear": "2nd Year",
+      "contactNumber": "+91 98101 98765",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "bio": "Mechanical branch enthusiast. Selling my 1st year drafting set and physics books.",
+      "role": "user",
+      "isCollegeVerified": true,
+      "isSuspended": false
+    },
+    {
+      "_id": "user_ananya_005",
+      "fullName": "Ananya Iyer",
+      "email": "ananya@dtu.ac.in",
+      "password": "$2b$10$sn1Y4EnG.HEFOuOY8k9emeniV6Tn5R10AXLo8kGXw8yyt/MOaf6nu",
+      "collegeName": "Delhi Technological University",
+      "course": "B.Tech",
+      "branch": "Information Technology",
+      "academicYear": "4th Year (Graduating)",
+      "contactNumber": "+91 98345 67890",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "bio": "Relocating post-graduation. Bundling hostel gear and electronics at heavy student discounts.",
+      "role": "user",
+      "isCollegeVerified": true,
+      "isSuspended": false
+    }
+  ],
+  "categories": [
+    {
+      "_id": "cat_1",
+      "name": "Books & Reference Materials",
+      "slug": "books-reference",
+      "icon": "BookOpen",
+      "description": "Standard textbooks, reference guides, syllabus handbooks, and entrance prep books.",
+      "itemCount": 2
+    },
+    {
+      "_id": "cat_2",
+      "name": "Notes & Study Materials",
+      "slug": "notes-study-materials",
+      "icon": "FileText",
+      "description": "Handwritten toppers notes, semester exam question banks, and summarized cheatsheets.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_3",
+      "name": "Lab Equipment & Lab Coats",
+      "slug": "lab-equipment-coats",
+      "icon": "FlaskConical",
+      "description": "Cotton lab aprons, chemistry glassware sets, dissecting kits, and physics breadboards.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_4",
+      "name": "Scientific Calculators",
+      "slug": "scientific-calculators",
+      "icon": "Calculator",
+      "description": "Casio fx-991EX, fx-82MS, graphical calculators, and matrix solvers for engineering exams.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_5",
+      "name": "Laptops & Computers",
+      "slug": "laptops-computers",
+      "icon": "Laptop",
+      "description": "Coding laptops, refurbished MacBooks/ThinkPads, monitors, and compact college PCs.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_6",
+      "name": "Electronics & Accessories",
+      "slug": "electronics-accessories",
+      "icon": "Headphones",
+      "description": "Mechanical keyboards, wireless mice, noise-canceling headphones, USB hubs, and adapters.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_7",
+      "name": "Engineering & Drawing Tools",
+      "slug": "engineering-drawing-tools",
+      "icon": "Compass",
+      "description": "Mini drafters, T-squares, imperial sheet holders, stencil sets, and mechanical pencils.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_8",
+      "name": "Hostel Essentials",
+      "slug": "hostel-essentials",
+      "icon": "Home",
+      "description": "Electric kettles, study lamps, laundry organizers, mattresses, buckets, and room fans.",
+      "itemCount": 2
+    },
+    {
+      "_id": "cat_9",
+      "name": "Stationery",
+      "slug": "stationery",
+      "icon": "PenTool",
+      "description": "Graph pads, highlighters, sticky notes, binder clips, and file folders.",
+      "itemCount": 1
+    },
+    {
+      "_id": "cat_10",
+      "name": "Others",
+      "slug": "others",
+      "icon": "Package",
+      "description": "Sports equipment, campus cycles, gym gear, musical instruments, and bags.",
+      "itemCount": 1
+    }
+  ],
+  "products": [
+    {
+      "_id": "aasx12yzmw4o4kq9",
+      "title": "Chemistry Lab Glassware Set (Beakers + Test Tubes)",
+      "description": "Complete borosilicate glass set with stand and test tube holder. Used for Organic Chemistry lab.",
+      "category": "Lab Equipment & Lab Coats",
+      "condition": "Like New",
+      "sellingPrice": 350,
+      "originalPrice": 800,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_aarav_002",
+      "collegeName": "Delhi University",
+      "department": "Computer Science & Engineering",
+      "meetingLocation": "Miranda House / North Campus Gate",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 7,
+      "featured": false,
+      "createdAt": "2026-11-06T07:43:53.841Z",
+      "updatedAt": "2026-11-06T07:52:53.608Z"
+    },
+    {
+      "_id": "qam4cwp4mw4o4484",
+      "title": "Chemistry Lab Glassware Set (Beakers + Test Tubes)",
+      "description": "Complete borosilicate glass set with stand and test tube holder. Used for Organic Chemistry lab.",
+      "category": "Lab Equipment & Lab Coats",
+      "condition": "Like New",
+      "sellingPrice": 350,
+      "originalPrice": 800,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_aarav_002",
+      "collegeName": "Delhi University",
+      "department": "Computer Science & Engineering",
+      "meetingLocation": "Miranda House / North Campus Gate",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 0,
+      "featured": false,
+      "createdAt": "2026-11-06T07:43:32.452Z",
+      "updatedAt": "2026-11-06T07:43:32.452Z"
+    },
+    {
+      "_id": "prod_001",
+      "title": "Casio fx-991EX ClassWiz Scientific Calculator (Mint Condition)",
+      "description": "High-resolution natural textbook display with 552 functions including matrix, vector, and equation calculations. Used for 2 semesters only. Battery fresh, original sliding hard cover included.",
+      "category": "Scientific Calculators",
+      "condition": "Like New",
+      "sellingPrice": 850,
+      "originalPrice": 1750,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_aarav_002",
+      "collegeName": "Delhi University",
+      "department": "Computer Science",
+      "meetingLocation": "Central Science Library entrance or North Campus Metro Gate 3",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": true,
+      "viewsCount": 142,
+      "featured": true
+    },
+    {
+      "_id": "prod_002",
+      "title": "Complete Engineering Drawing Kit: Mini Drafter, T-Square & Canvas Sheet Holder",
+      "description": "Complete 1st/2nd semester engineering graphics package! Includes branded Omega mini-drafter with zero wobbling, stainless steel clips, set squares, and heavy-duty water-resistant tubular sheet holder.",
+      "category": "Engineering & Drawing Tools",
+      "condition": "Good",
+      "sellingPrice": 650,
+      "originalPrice": 1600,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_rohan_004",
+      "collegeName": "IIT Delhi",
+      "department": "Mechanical Engineering",
+      "meetingLocation": "Nilgiri Hostel Common Room or Main Canteen Lawn",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 98,
+      "featured": true
+    },
+    {
+      "_id": "prod_003",
+      "title": "Data Structures and Algorithms in C++ by Mark Allen Weiss + Handwritten DS Notes",
+      "description": "Essential textbook for second-year CSE/IT students. Hardcover 4th Edition. Clean pages with zero pen marks. Free bonus: 120-page spiral bound handwritten revision notes on Trees, Graphs, and DP.",
+      "category": "Books & Reference Materials",
+      "condition": "Like New",
+      "sellingPrice": 420,
+      "originalPrice": 950,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1532012164546-f432f2e3777f?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_aarav_002",
+      "collegeName": "Delhi University",
+      "department": "Computer Science",
+      "meetingLocation": "Arts Faculty Canteen or D-School steps",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": true,
+      "viewsCount": 212,
+      "featured": true,
+      "updatedAt": "2026-11-06T08:11:27.096Z"
+    },
+    {
+      "_id": "prod_004",
+      "title": "Pure Cotton Lab Coat (Size 38 / M) + Safety Eye Goggles Bundle",
+      "description": "Thick 100% white cotton chemistry/biology lab apron. No stains, all buttons intact, sanitized and ironed. Comes with anti-fog protective splash goggles required for college labs.",
+      "category": "Lab Equipment & Lab Coats",
+      "condition": "Good",
+      "sellingPrice": 280,
+      "originalPrice": 650,
+      "isNegotiable": false,
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_priya_003",
+      "collegeName": "IP University",
+      "department": "Electronics & Communication",
+      "meetingLocation": "Dwarka Campus Block C Lobby",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 66,
+      "featured": false,
+      "updatedAt": "2026-11-06T07:52:41.507Z"
+    },
+    {
+      "_id": "prod_005",
+      "title": "Prestige 1.5L Stainless Steel Electric Kettle (Hostel Essential)",
+      "description": "Lifesaver for late night study sessions, Maggie noodles, coffee, and green tea! Auto-cut off feature, 360-degree swivel base, concealed heating element. 100% clean and working properly.",
+      "category": "Hostel Essentials",
+      "condition": "Good",
+      "sellingPrice": 490,
+      "originalPrice": 1195,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_ananya_005",
+      "collegeName": "Delhi Technological University",
+      "department": "Information Technology",
+      "meetingLocation": "DTU Mech Canteen or Girls Hostel Gate",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": true,
+      "viewsCount": 182,
+      "featured": true,
+      "updatedAt": "2026-11-06T07:53:01.490Z"
+    },
+    {
+      "_id": "prod_006",
+      "title": "Logitech K380 Multi-Device Bluetooth Wireless Keyboard",
+      "description": "Super compact, quiet round keys, pairs seamlessly with up to 3 devices (laptop, tablet, phone). Fresh AAA batteries included. Perfect for library coding and studying without carrying heavy clunky keyboards.",
+      "category": "Electronics & Accessories",
+      "condition": "Like New",
+      "sellingPrice": 1450,
+      "originalPrice": 2895,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1541140532154-b024d705b909?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_ananya_005",
+      "collegeName": "Delhi Technological University",
+      "department": "Information Technology",
+      "meetingLocation": "Library Ground Floor Reading Room",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": true,
+      "viewsCount": 310,
+      "featured": true
+    },
+    {
+      "_id": "prod_007",
+      "title": "Wipro LED Eye-Care Desk Lamp with 3 Color Modes & Dimmable Brightness",
+      "description": "Flexible goose neck, warm/cool/neutral light options, USB rechargeable with 4-hour battery backup during hostel power cuts. Kept on my desk for one year only.",
+      "category": "Hostel Essentials",
+      "condition": "Like New",
+      "sellingPrice": 420,
+      "originalPrice": 999,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1534972195531-a756b1126f24?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_rohan_004",
+      "collegeName": "IIT Delhi",
+      "department": "Mechanical Engineering",
+      "meetingLocation": "SAC (Student Activity Center) Coffee Cafe",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 88,
+      "featured": false
+    },
+    {
+      "_id": "prod_008",
+      "title": "Higher Engineering Mathematics by B.S. Grewal (44th Latest Edition)",
+      "description": "The holy grail of engineering mathematics across all semesters (Calculus, Differential Equations, Linear Algebra, Probability). All 1300 pages intact with protective laminated cover.",
+      "category": "Books & Reference Materials",
+      "condition": "Good",
+      "sellingPrice": 390,
+      "originalPrice": 850,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_priya_003",
+      "collegeName": "IP University",
+      "department": "Electronics & Communication",
+      "meetingLocation": "Main Campus Admin Block Fountain",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 154,
+      "featured": false
+    },
+    {
+      "_id": "prod_009",
+      "title": "Lenovo ThinkPad E14 Gen 2 (Ryzen 5, 16GB RAM, 512GB SSD) - Coding Beast",
+      "description": "Sturdy military-grade student laptop. Upgraded to 16GB dual-channel DDR4 RAM, 512GB NVMe SSD, backlit keyboard, fingerprint reader. Battery holds 4.5+ hours. Ideal for full-stack, Docker, Android Studio, and ML projects.",
+      "category": "Laptops & Computers",
+      "condition": "Good",
+      "sellingPrice": 24500,
+      "originalPrice": 58000,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_aarav_002",
+      "collegeName": "Delhi University",
+      "department": "Computer Science",
+      "meetingLocation": "Cluster Innovation Centre, North Campus",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": true,
+      "viewsCount": 420,
+      "featured": true
+    },
+    {
+      "_id": "prod_010",
+      "title": "Classmate Octane Neon Gel Pens (Pack of 15) + A4 Ruled Assignment Sheets",
+      "description": "Brand new, sealed in original box! Surplus stationary from my semester project work. Includes 15 pens and 200 pages high-GSM ruled sheets for college internal assignments.",
+      "category": "Stationery",
+      "condition": "Brand New",
+      "sellingPrice": 150,
+      "originalPrice": 320,
+      "isNegotiable": false,
+      "images": [
+        "https://images.unsplash.com/photo-1585336261026-40742f10b7a8?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_priya_003",
+      "collegeName": "IP University",
+      "department": "Electronics & Communication",
+      "meetingLocation": "Near Dwarka Sector 14 Metro Station / College Gate",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 44,
+      "featured": false
+    },
+    {
+      "_id": "prod_011",
+      "title": "Hero Sprint Single Speed Campus Bicycle with Front Basket & Lock",
+      "description": "Perfect for pedaling between hostels, academic blocks, and campus cafeterias. Smooth brakes, oiled chain, durable tires, and includes a heavy-duty combination wire lock.",
+      "category": "Others",
+      "condition": "Good",
+      "sellingPrice": 2200,
+      "originalPrice": 5500,
+      "isNegotiable": true,
+      "images": [
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_ananya_005",
+      "collegeName": "Delhi Technological University",
+      "department": "Information Technology",
+      "meetingLocation": "DTU Main Sports Complex Cycle Stand",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": true,
+      "viewsCount": 260,
+      "featured": true
+    },
+    {
+      "_id": "prod_012",
+      "title": "Analog & Digital Signal Processing Handwritten Topper Notes (2 Semesters)",
+      "description": "Comprehensive handwritten class notes written with colored pens, circuit diagrams, solved previous 7-year university exam questions, and Fourier/Z-transform cheat sheets.",
+      "category": "Notes & Study Materials",
+      "condition": "Like New",
+      "sellingPrice": 180,
+      "originalPrice": 400,
+      "isNegotiable": false,
+      "images": [
+        "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&auto=format&fit=crop&q=80"
+      ],
+      "seller": "user_priya_003",
+      "collegeName": "IP University",
+      "department": "Electronics & Communication",
+      "meetingLocation": "USICT Library Ground Floor",
+      "contactPreference": "In-App Chat",
+      "status": "available",
+      "isGraduateClearance": false,
+      "viewsCount": 115,
+      "featured": false
+    }
+  ],
+  "offers": [
+    {
+      "_id": "ysuwehmbmw4o4krz",
+      "product": "aasx12yzmw4o4kq9",
+      "buyer": "user_priya_003",
+      "seller": "user_aarav_002",
+      "originalPrice": 350,
+      "offerPrice": 280,
+      "counterPrice": 310,
+      "message": "How about ₹310? Meet at the library.",
+      "status": "countered",
+      "createdAt": "2026-11-06T07:43:53.903Z",
+      "updatedAt": "2026-11-06T07:43:53.905Z"
+    },
+    {
+      "_id": "zts1v6nhmw4o449v",
+      "product": "qam4cwp4mw4o4484",
+      "buyer": "user_priya_003",
+      "seller": "user_aarav_002",
+      "originalPrice": 350,
+      "offerPrice": 280,
+      "counterPrice": 310,
+      "message": "How about ₹310? Meet at the library.",
+      "status": "countered",
+      "createdAt": "2026-11-06T07:43:32.515Z",
+      "updatedAt": "2026-11-06T07:43:32.518Z"
+    },
+    {
+      "_id": "offer_001",
+      "product": "prod_001",
+      "buyer": "user_priya_003",
+      "seller": "user_aarav_002",
+      "originalPrice": 850,
+      "offerPrice": 720,
+      "counterPrice": null,
+      "message": "Hey Aarav, can we do ₹720? I can meet you at North Campus Metro today!",
+      "status": "pending",
+      "createdAt": "2026-11-06T04:30:50.295Z"
+    },
+    {
+      "_id": "offer_002",
+      "product": "prod_002",
+      "buyer": "user_aarav_002",
+      "seller": "user_rohan_004",
+      "originalPrice": 650,
+      "offerPrice": 500,
+      "counterPrice": 580,
+      "message": "Would you accept 500 for the graphics kit?",
+      "status": "countered",
+      "createdAt": "2026-11-05T19:30:50.296Z"
+    }
+  ],
+  "conversations": [
+    {
+      "_id": "2fqbnxr7mw4oexqg",
+      "participants": [
+        "lncc4cz6mw4oeges",
+        "user_aarav_002"
+      ],
+      "product": "aasx12yzmw4o4kq9",
+      "lastMessage": "Hi Aarav Patel, I'm interested in your listing: \"Chemistry Lab Glassware Set (Beakers + Test Tubes)\" listed for ₹350. Is it still available?",
+      "lastMessageTime": "2026-11-06T07:51:57.257Z",
+      "createdAt": "2026-11-06T07:51:57.256Z",
+      "updatedAt": "2026-11-06T07:51:57.258Z"
+    },
+    {
+      "_id": "lsnulhwsmw4o4ks5",
+      "participants": [
+        "user_priya_003",
+        "user_aarav_002"
+      ],
+      "product": "aasx12yzmw4o4kq9",
+      "lastMessage": "Awesome, ₹310 sounds good! See you at 3 PM at the library.",
+      "lastMessageTime": "2026-11-06T07:43:53.910Z",
+      "createdAt": "2026-11-06T07:43:53.909Z",
+      "updatedAt": "2026-11-06T07:43:53.910Z"
+    },
+    {
+      "_id": "p9yqvcmtmw4o44a2",
+      "participants": [
+        "user_priya_003",
+        "user_aarav_002"
+      ],
+      "product": "qam4cwp4mw4o4484",
+      "lastMessage": "Awesome, ₹310 sounds good! See you at 3 PM at the library.",
+      "lastMessageTime": "2026-11-06T07:43:32.523Z",
+      "createdAt": "2026-11-06T07:43:32.522Z",
+      "updatedAt": "2026-11-06T07:43:32.523Z"
+    },
+    {
+      "_id": "conv_001",
+      "participants": [
+        "user_priya_003",
+        "user_aarav_002"
+      ],
+      "product": "prod_001",
+      "lastMessage": "Hey Aarav, can we do ₹720? I can meet you at North Campus Metro today!",
+      "lastMessageTime": "2026-11-06T04:30:50.296Z"
+    }
+  ],
+  "messages": [
+    {
+      "_id": "zd90u47amw4oexqh",
+      "conversation": "2fqbnxr7mw4oexqg",
+      "sender": "lncc4cz6mw4oeges",
+      "recipient": "user_aarav_002",
+      "content": "Hi Aarav Patel, I'm interested in your listing: \"Chemistry Lab Glassware Set (Beakers + Test Tubes)\" listed for ₹350. Is it still available?",
+      "offer": null,
+      "read": false,
+      "createdAt": "2026-11-06T07:51:57.257Z",
+      "updatedAt": "2026-11-06T07:51:57.257Z"
+    },
+    {
+      "_id": "no2nzp21mw4o4ks5",
+      "conversation": "lsnulhwsmw4o4ks5",
+      "sender": "user_priya_003",
+      "recipient": "user_aarav_002",
+      "content": "Awesome, ₹310 sounds good! See you at 3 PM at the library.",
+      "offer": null,
+      "read": false,
+      "createdAt": "2026-11-06T07:43:53.909Z",
+      "updatedAt": "2026-11-06T07:43:53.909Z"
+    },
+    {
+      "_id": "xohjgpvvmw4o44a3",
+      "conversation": "p9yqvcmtmw4o44a2",
+      "sender": "user_priya_003",
+      "recipient": "user_aarav_002",
+      "content": "Awesome, ₹310 sounds good! See you at 3 PM at the library.",
+      "offer": null,
+      "read": false,
+      "createdAt": "2026-11-06T07:43:32.523Z",
+      "updatedAt": "2026-11-06T07:43:32.523Z"
+    },
+    {
+      "_id": "msg_001",
+      "conversation": "conv_001",
+      "sender": "user_priya_003",
+      "recipient": "user_aarav_002",
+      "content": "Hi Aarav! Is the Casio ClassWiz calculator still available?",
+      "read": true,
+      "createdAt": "2026-11-06T03:30:50.296Z"
+    },
+    {
+      "_id": "msg_002",
+      "conversation": "conv_001",
+      "sender": "user_aarav_002",
+      "recipient": "user_priya_003",
+      "content": "Hey Priya, yes it is! Barely used it for one semester.",
+      "read": true,
+      "createdAt": "2026-11-06T04:00:50.296Z"
+    },
+    {
+      "_id": "msg_003",
+      "conversation": "conv_001",
+      "sender": "user_priya_003",
+      "recipient": "user_aarav_002",
+      "content": "Hey Aarav, can we do ₹720? I can meet you at North Campus Metro today!",
+      "offer": "offer_001",
+      "read": false,
+      "createdAt": "2026-11-06T04:30:50.296Z"
+    }
+  ],
+  "wishlists": [
+    {
+      "_id": "9xntljz1mw4o4ks3",
+      "user": "user_priya_003",
+      "product": "aasx12yzmw4o4kq9",
+      "createdAt": "2026-11-06T07:43:53.907Z",
+      "updatedAt": "2026-11-06T07:43:53.907Z"
+    },
+    {
+      "_id": "yap8xwdzmw4o44a0",
+      "user": "user_priya_003",
+      "product": "qam4cwp4mw4o4484",
+      "createdAt": "2026-11-06T07:43:32.520Z",
+      "updatedAt": "2026-11-06T07:43:32.520Z"
+    },
+    {
+      "_id": "wish_001",
+      "user": "user_priya_003",
+      "product": "prod_009",
+      "createdAt": "2026-11-06T07:30:50.296Z"
+    }
+  ],
+  "reports": []
+}
